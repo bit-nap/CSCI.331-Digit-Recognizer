@@ -1,5 +1,7 @@
 ### CSCI.331 | Digit Recognizer Challange
+
 -----------------------------------------
+
 ### Author
 - Norton Andres Perez
 
